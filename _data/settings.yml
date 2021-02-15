@@ -54,7 +54,7 @@ portfolio-label:
 
 portfolio-items:
   - image : "assets/images/portfolio/item-1.png"
-    url: "/subway"
+    url: "https://subway-project.vercel.app/"
     portfolio-type:
      - type: "DA"
      - type: "WEB"
